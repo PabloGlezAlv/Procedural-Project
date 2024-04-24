@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>be9b933c-5ba4-4b75-8a03-402244ddb78b</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets">
+      <UniqueIdentifier>558da2db-1cd8-4033-9858-2a5e9328268c</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dds;dlg;fbx;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tga;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Rendering">
+      <UniqueIdentifier>{40238b9b-2d65-45a3-9dff-1217399e25f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects">
+      <UniqueIdentifier>{df50849a-8a0b-4400-b19a-0c6c86b00e12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rendering\Shaders">
+      <UniqueIdentifier>{500c33b8-b640-432e-87c3-76126ca967c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Own Geometry">
+      <UniqueIdentifier>{fe222142-c03e-4f69-8dbc-914b9aaa0a5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sound">
+      <UniqueIdentifier>{cb3234aa-2ab1-441d-adcc-8a8c1d3369a7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="StepTimer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="DeviceResources.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="ReadData.h" />
+    <ClInclude Include="Camera.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="modelclass.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h" />
+    <ClInclude Include="RenderTexture.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleSystem.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Sea.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Sand.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Boat.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="SandShader.h">
+      <Filter>Rendering\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Rendering\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticShader.h">
+      <Filter>Rendering\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="WaterShader.h">
+      <Filter>Rendering\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticEntity.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="LightHouse.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Sierpinski.h">
+      <Filter>Objects\Own Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="Crystal.h">
+      <Filter>Objects\Own Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="WavesSound.h">
+      <Filter>Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound3D.h">
+      <Filter>Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="FastNoiseLite.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Terrain.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="TerrainShader.h">
+      <Filter>Rendering\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="CircularMaze.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="PostProcessingManager.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="DeviceResources.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="modelclass.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp" />
+    <ClCompile Include="RenderTexture.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleSystem.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Sea.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Sand.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Boat.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="SandShader.cpp">
+      <Filter>Rendering\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Rendering\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="WaterShader.cpp">
+      <Filter>Rendering\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticEntity.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="LightHouse.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Sierpinski.cpp">
+      <Filter>Objects\Own Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="Crystal.cpp">
+      <Filter>Objects\Own Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="WavesSound.cpp">
+      <Filter>Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound3D.cpp">
+      <Filter>Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Terrain.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticShader.cpp">
+      <Filter>Rendering\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="TerrainShader.cpp">
+      <Filter>Rendering\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="CircularMaze.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="PostProcessingManager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="resource.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="settings.manifest">
+      <Filter>Assets</Filter>
+    </Manifest>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SegoeUI_18.spritefont">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="directx.ico">
+      <Filter>Assets</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="DOF_ps.hlsl">
+      <Filter>Assets</Filter>
+    </FxCompile>
+    <FxCompile Include="particle_ps.hlsl">
+      <Filter>Assets</Filter>
+    </FxCompile>
+    <FxCompile Include="particle_vs.hlsl">
+      <Filter>Assets</Filter>
+    </FxCompile>
+    <FxCompile Include="particle_cs.hlsl">
+      <Filter>Assets</Filter>
+    </FxCompile>
+    <FxCompile Include="lightNormal_ps.hlsl">
+      <Filter>Assets</Filter>
+    </FxCompile>
+    <FxCompile Include="lightNormal_vs.hlsl">
+      <Filter>Assets</Filter>
+    </FxCompile>
+    <FxCompile Include="waves_ps.hlsl">
+      <Filter>Assets</Filter>
+    </FxCompile>
+    <FxCompile Include="waves_vs.hlsl">
+      <Filter>Assets</Filter>
+    </FxCompile>
+    <FxCompile Include="sand_ps.hlsl">
+      <Filter>Assets</Filter>
+    </FxCompile>
+    <FxCompile Include="sand_vs.hlsl">
+      <Filter>Assets</Filter>
+    </FxCompile>
+    <FxCompile Include="skybox_ps.hlsl">
+      <Filter>Assets</Filter>
+    </FxCompile>
+    <FxCompile Include="skybox_vs.hlsl">
+      <Filter>Assets</Filter>
+    </FxCompile>
+    <FxCompile Include="particle_gs.hlsl">
+      <Filter>Assets</Filter>
+    </FxCompile>
+    <FxCompile Include="terrain_ps.hlsl">
+      <Filter>Assets</Filter>
+    </FxCompile>
+    <FxCompile Include="terrain_vs.hlsl">
+      <Filter>Assets</Filter>
+    </FxCompile>
+    <FxCompile Include="Vignette_PS.hlsl">
+      <Filter>Assets</Filter>
+    </FxCompile>
+    <FxCompile Include="blackWhite_ps.hlsl">
+      <Filter>Assets</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

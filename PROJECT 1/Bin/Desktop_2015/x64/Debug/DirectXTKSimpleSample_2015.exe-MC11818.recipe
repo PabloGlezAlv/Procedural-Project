@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\DOF_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\lightNormal_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\lightNormal_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\particle_cs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\particle_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\particle_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\sand_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\sand_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\skybox_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\skybox_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\waves_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\waves_ps.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

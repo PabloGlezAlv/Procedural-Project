@@ -1,0 +1,11 @@
+﻿C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\DOF_ps.hlsl(40,18): warning X3078: 'i': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\DOF_ps.hlsl(37,29-79): warning X3570: gradient instruction used in a loop with varying iteration, attempting to unroll the loop
+C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\DOF_ps.hlsl(43,29-79): warning X3570: gradient instruction used in a loop with varying iteration, attempting to unroll the loop
+  
+  compilation object save succeeded; see C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\Bin\Desktop_2015\x64\Release\DOF_ps.cso
+C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\lightNormal_ps.hlsl(104,12-75): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\Bin\Desktop_2015\x64\Release\lightNormal_ps.cso
+  compilation object save succeeded; see C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\Bin\Desktop_2015\x64\Release\lightNormal_vs.cso
+  Unsupported shader model specified "cs_4_0_level_9_3"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1830,5): error MSB6006: "fxc.exe" salió con el código 1.

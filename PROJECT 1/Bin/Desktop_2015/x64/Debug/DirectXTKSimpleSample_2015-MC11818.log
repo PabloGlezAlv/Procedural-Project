@@ -1,0 +1,6 @@
+﻿C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\DOF_ps.hlsl(40,18): warning X3078: 'i': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\DOF_ps.hlsl(37,29-79): warning X3570: gradient instruction used in a loop with varying iteration, attempting to unroll the loop
+C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\DOF_ps.hlsl(43,29-79): warning X3570: gradient instruction used in a loop with varying iteration, attempting to unroll the loop
+  
+  compilation object save succeeded; see C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\DOF_ps.cso
+  DirectXTKSimpleSample_2015.vcxproj -> C:\Users\2301715\OneDrive - Abertay University\WORK\GAME DEVELOPING\PROJECT\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe

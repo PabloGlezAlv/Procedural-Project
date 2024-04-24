@@ -1,0 +1,3 @@
+﻿  Sea.cpp
+C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\Engine\Sea.cpp(66,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  DirectXTKSimpleSample_2015.vcxproj -> C:\Users\pablo\OneDrive - Abertay University\WORK\GAME DEVELOPING\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe

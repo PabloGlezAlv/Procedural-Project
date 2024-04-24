@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\PROCEDURAL METODS\PROJECT 1\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\PROCEDURAL METODS\PROJECT 1\blackWhite_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\PROCEDURAL METODS\PROJECT 1\DOF_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\PROCEDURAL METODS\PROJECT 1\lightNormal_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\PROCEDURAL METODS\PROJECT 1\lightNormal_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\PROCEDURAL METODS\PROJECT 1\particle_cs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\PROCEDURAL METODS\PROJECT 1\particle_gs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\PROCEDURAL METODS\PROJECT 1\particle_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\PROCEDURAL METODS\PROJECT 1\particle_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\PROCEDURAL METODS\PROJECT 1\sand_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\PROCEDURAL METODS\PROJECT 1\sand_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\PROCEDURAL METODS\PROJECT 1\skybox_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\PROCEDURAL METODS\PROJECT 1\skybox_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\PROCEDURAL METODS\PROJECT 1\terrain_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\PROCEDURAL METODS\PROJECT 1\terrain_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\PROCEDURAL METODS\PROJECT 1\Vignette_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\PROCEDURAL METODS\PROJECT 1\waves_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\pablo\OneDrive - Abertay University\WORK\PROCEDURAL METODS\PROJECT 1\waves_ps.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
